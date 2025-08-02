@@ -27,3 +27,5 @@ There are two spectrums of gaining knowledge:
 1. Rationalist: based on reasoning, and the object itself can be abstract
 2. Empiricist: based on experience - objective reality, and the object is tangible in the real worlds
 
+> Science should be possess a healthy blend of both perspectives.
+
